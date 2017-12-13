@@ -1,0 +1,65 @@
+ ACCALL - Accessibility calculations
+ MAX RESIDUES     5000
+ MAX ATOMS/RES     100
+ PDB FILE INPUT o704_1.pdb
+ PROBE SIZE       1.40
+ Z-SLICE WIDTH   0.050
+ VDW RADII FILE vdw.radii
+ EXCL HETATOMS
+ EXCL HYDROGENS
+ EXCL WATERS
+ READVDW  32 residues input
+ UNKNOWN residue type.............> BLK   164 
+ NON-STANDARD atom.| N  | in residue> BLK   164 
+ ASSUMED vdw of  N   in BLK   164  =  1.65 (same as ALA)
+ NON-STANDARD atom.| CA | in residue> BLK   164 
+ ASSUMED vdw of  CA  in BLK   164  =  1.87 (same as ALA)
+ NON-STANDARD atom.| C  | in residue> BLK   164 
+ ASSUMED vdw of  C   in BLK   164  =  1.76 (same as ALA)
+ NON-STANDARD atom.| O  | in residue> BLK   164 
+ ASSUMED vdw of  O   in BLK   164  =  1.40 (same as ALA)
+ NON-STANDARD atom.| CB | in residue> BLK   164 
+ ASSUMED vdw of  CB  in BLK   164  =  1.87 (same as ALA)
+ NON-STANDARD atom.| CG | in residue> BLK   164 
+ ASSUMED vdw of  CG  in BLK   164  =  1.87 (same as ARG)
+ NON-STANDARD atom.| CD1| in residue> BLK   164 
+ ASSUMED vdw of  CD1 in BLK   164  =  1.87 (same as ILE)
+ NON-STANDARD atom.| O2 | in residue> BLK   164 
+ ASSUMED vdw of  O2  in BLK   164  =  1.40 (same as   C)
+ NON-STANDARD atom.| CD2| in residue> BLK   164 
+ ASSUMED vdw of  CD2 in BLK   164  =  1.76 (same as HIS)
+ NON-STANDARD atom.| CE1| in residue> BLK   164 
+ ASSUMED vdw of  CE1 in BLK   164  =  1.76 (same as HIS)
+ NON-STANDARD atom.| CE2| in residue> BLK   164 
+ ASSUMED vdw of  CE2 in BLK   164  =  1.76 (same as PHE)
+ NON-STANDARD atom.| CZ | in residue> BLK   164 
+ ASSUMED vdw of  CZ  in BLK   164  =  1.76 (same as ARG)
+ NON-STANDARD atom.| OH | in residue> BLK   164 
+ ASSUMED vdw of  OH  in BLK   164  =  1.40 (same as TYR)
+ NON-STANDARD atom.| N1 | in residue> BLK   164 
+ ASSUMED vdw of  N1  in BLK   164  =  1.60 (same as   A)
+ NON-STANDARD atom.| N2 | in residue> BLK   164 
+ ASSUMED vdw of  N2  in BLK   164  =  1.60 (same as   G)
+ NON-STANDARD atom.| C1 | in residue> BLK   164 
+ GUESSED vdw of  C1  in BLK   164  =  1.80
+ NON-STANDARD atom.| C2 | in residue> BLK   164 
+ ASSUMED vdw of  C2  in BLK   164  =  1.80 (same as   A)
+ NON-STANDARD atom.| C3 | in residue> BLK   164 
+ GUESSED vdw of  C3  in BLK   164  =  1.80
+ NON-STANDARD atom.| C4 | in residue> BLK   164 
+ ASSUMED vdw of  C4  in BLK   164  =  1.80 (same as   A)
+ NON-STANDARD atom.| C5 | in residue> BLK   164 
+ ASSUMED vdw of  C5  in BLK   164  =  1.80 (same as   A)
+ NON-STANDARD atom.| N3 | in residue> BLK   164 
+ ASSUMED vdw of  N3  in BLK   164  =  1.60 (same as   A)
+ UNKNOWN residue type.............> BLK   412 
+ NON-STANDARD atom.| CU | in residue> BLK   412 
+ GUESSED vdw of  CU  in BLK   412  =  1.80
+ ADDED VDW RADII
+ CHAINS       1
+ RESIDUES   412
+ ATOMS     3281
+ SOLVA: PROGRAM ENDS CORRECTLY
+ CALCULATED ATOMIC ACCESSIBILITES
+ RELATIVE (STANDARD) ACCESSIBILITIES READFOR  20 AMINO ACIDS
+ SUMMED ACCESSIBILITIES OVER RESIDUES
